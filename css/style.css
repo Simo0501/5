@@ -8,5 +8,8 @@
     margin: 30px;
 }
 .all{
-    border:solid 2px cornflowerblue;
+    border:solid 2px;
+}
+.image{
+    display: inline-block;
 }
