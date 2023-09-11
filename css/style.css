@@ -36,5 +36,6 @@ div.action-2{
 .action-2{
     display: inline-block;
     margin: 33px;
-    margin-left: 31px;
+    margin: left 28px;
+    border: width 28px;;
    
