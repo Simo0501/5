@@ -1,4 +1,12 @@
+.container{display: inline-block;
+    margin: 30px;
+    border: solid 2px;
+
+}
 .reserch{
     display: inline-block;
-    margin: 6px;
+    margin: 30px;
+}
+.all{
+    border:solid 2px cornflowerblue;
 }
