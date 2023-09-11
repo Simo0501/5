@@ -1,10 +1,24 @@
-body{
+div.all{
     background-color:rgb(193, 209, 232) ;
+}
+div.container{
+    background-color: aliceblue;
+    margin-top: 20px;
+    margin-left: 40%;
+}
+div.action{
+    background-color: aliceblue;
+    border:solid 1px;
+}
+div.action-2{
+    background-color: aliceblue;
+    border:solid 1px;
 }
    
 .container{display: inline-block;
     margin: 30px;
     border: solid 2px;
+    padding:0;
 
 }
 .reserch{
@@ -17,8 +31,10 @@ body{
 .action{
     display: inline-block;
     margin: 20px;
+    
 }
 .action-2{
     display: inline-block;
-    margin: 30px;
-}
+    margin: 33px;
+    margin-left: 31px;
+   
