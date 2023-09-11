@@ -13,3 +13,7 @@
 .action{
     display: inline-block;
 }
+.img{
+    width: 5px;
+    height: 5px;
+}
