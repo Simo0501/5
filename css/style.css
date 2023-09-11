@@ -37,5 +37,17 @@ div.action-2{
     display: inline-block;
     margin: 33px;
     margin: left 28px;
-    border: width 28px;;
+    border: width 28px;
+    }
+    .action-3{
+        border: 2px;
+    }
+    .action-3{
+        display: inline-block;
+        margin: 25px;
+        background-color: aliceblue;
+    }
+    div.action-3{
+        border:solid 1px;
+    }
    
